@@ -6,19 +6,19 @@ revealOptions:
     transition: 'fade'
 ---
 
-# Apache Dojo!
+# Scala
 By: Camilo Sampedro
 
-![apache](images/apache.gif)
+---
+
+## SCAlable LAnguage
+* In Scala everything is defined in the libraries instead
+En Scala casi todo está definido en las librerías, más no en el lenguaje
 
 ---
 
-# Big Data
-
----
-
-## Apache Hadoop
-* Base technology for Apache Big Data technologies.
+## SCAlable LAnguage
+* Baazar and cathedral methaphore
 * Uses __MapReduce__ schema for its working.
 
 ![hadoop](images/hadoop.jpg)
